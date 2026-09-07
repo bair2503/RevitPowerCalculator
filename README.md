@@ -19,20 +19,6 @@ text
 - `Pуст` - установленная мощность (кВт)
 - `Кс` - коэффициент спроса
 
-**English:**
-
-A plugin for Autodesk Revit that automates electrical load calculation based on installed equipment power.
-
-The plugin calculates using the formula:
-Pр = Pуст * Кс
-
-text
-where:
-- `Pр` - calculated power (kW)
-- `Pуст` - installed power (kW)
-- `Кс` - demand factor
-
----
 
 ## 🏗️ Архитектура / Architecture
 
