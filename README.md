@@ -132,13 +132,7 @@ RevitPlugin/
 
 Откройте Pull Request
 
-📄 Лицензия / License
-Distributed under the MIT License. See LICENSE for more information.
-
 📞 Контакты / Contact
 Создайте Issue в репозитории или свяжитесь с разработчиком.
 
-🌟 Благодарности / Acknowledgments
-Autodesk за Revit API
 
-Сообщество разработчиков Revit за помощь и идеи
